@@ -1,7 +1,7 @@
 # Coffigo
 A responsive landing page of a coffee website made by me for my learning purposes ✨
 
-### Click <a href="https://crispy-spoon.github.io/Coffigo">here</a> to view the website...
+### Click <a href="https://crispy-spoon.github.io/Coffigo/">here</a> to view the website...
 
 ## Screenshot Previews :
 
